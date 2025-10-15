@@ -1,0 +1,19 @@
+# MATLAB temp/backup
+*.asv
+*.m~
+*.mlx
+
+# Data & results (keep repo lean; commit samples in /examples if needed)
+*.mat
+*.csv
+*.png
+*.jpg
+*.pdf
+*.txt
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# If you later decide to track some results, remove specific lines above
+# or move outputs into /artifacts/ and unignore that folder explicitly.
